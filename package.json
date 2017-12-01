@@ -1,0 +1,22 @@
+{
+  "name": "koa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "my-koa-app.js",
+  "dependencies": {
+    "koa": "^2.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"start":"node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/digitalbutter/samplekoa.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/digitalbutter/samplekoa#readme"
+}
